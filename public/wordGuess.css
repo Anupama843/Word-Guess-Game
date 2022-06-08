@@ -1,0 +1,26 @@
+*{
+    margin: .7rem 0;
+}
+
+div{
+    border: .2rem solid black;
+    width: fit-content;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 5px 0 black;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+p{
+    border-bottom: .1rem solid black;
+    width: 100%;
+    text-align: center;
+}
